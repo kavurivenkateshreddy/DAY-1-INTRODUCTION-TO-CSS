@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INTRODUCTION TO CSS</title>
+<STYLE>
+    h1 {text-align:center;color:#ff0000;}
+</STYLE>
+</head>
+</style>
+<body>
+    <P><U><h1>CSS</h1></U></P>
+        <p>---> CSS Stands for "CASCADING STYLE SHEET".</p>
+        <p>---> CSS was created by "HAKON WIUM LIE". In 17th December 1996 with the help of "TIM BERNERS LIE" </p>
+        <P>---> CSS is the language we use to style an HTML document.</P>
+        <p>---> CSS describes how HTML element should be displayed.</p>
+        <p>---> CSS saves a lot of work. it cn control the layout of multiple web pages all at once.</p><br>
+        <P><font color="blue"><h3><u>SYNTAX FOR CSS : </u></h3></font></P>
+        <p>---> Where the CSS rule contains of a selector and a Decleration Block.</p>
+        <p>h1 {"color:blue;font-size:12px;"}</p>
+        <p>---> h1 is the Selector</p>
+        <p>---> {"color:blue;font-size:12px;"} is the  Decleration</p>
+        <p>---> color is the Property</p>
+        <p>---> blue is the value</p>
+</body>
+</html>
